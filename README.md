@@ -45,3 +45,6 @@ This project is part of **Unit 2: Data Wrangling & Retrieval**, aimed at buildin
    ```bash
    git clone https://github.com/yourusername/shark-attacks-analysis.git
    cd shark-attacks-analysis
+
+## 📽️ Slides Presentation
+   https://docs.google.com/presentation/d/1SlHyIXtr7roXPl2liGAZ02YSIVLcMRyRWXQoHOD3puo/edit?usp=sharing
