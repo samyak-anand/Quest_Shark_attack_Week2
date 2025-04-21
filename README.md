@@ -1,6 +1,6 @@
 # 🦈 Shark Attacks Data Wrangling & Analysis
 
-This repository contains a Jupyter Notebook project focused on data wrangling, exploratory data analysis (EDA), and insights generation from shark attack incidents around the world. The notebook titled `2025-04-17-updated-Data-Wrangling-Sharks-Ana.ipynb` presents the workflow and findings in a structured, reproducible manner.
+This repository contains a Jupyter Notebook project focused on data wrangling, exploratory data analysis (EDA), and insights generation from shark attack incidents around the world. The notebook titled `2025-04-21-Data-Wrangling-Sharks.ipynb` presents the workflow and findings in a structured, reproducible manner.
 
 ## 📚 Project Overview
 
